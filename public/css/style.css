@@ -1,0 +1,41 @@
+body{
+    background-color: rgba(228,228,228,255);
+}
+#main-div{
+    margin: auto;
+    width: 75%;
+}
+#div-1{
+    height: 70px;
+    background-color: rgba(96,197,255,255);
+    display: flex;
+    align-items: center;
+    border-radius: 4%;
+    margin-bottom: 20px;
+}
+#titre1{
+    color: white;
+    padding-left: 15px;
+}
+#div-2{
+    background-color: rgba(248,249,250,255);
+    padding: 2%;
+    border-top: solid 4px rgba(96,197,255,255);
+}
+button{
+    background-color: rgba(76,0,255,255);
+    color: white;
+    border: none;
+    border-radius: 10%;
+    height: 20px;
+}
+#hr-1{
+    height: 3px;
+    border: none;
+    background-color:rgba(228,228,228,255);
+}
+#btn-trois{
+display: flex;
+justify-content: flex-end;
+gap: 5px;
+}
